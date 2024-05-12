@@ -1,11 +1,8 @@
+import React from 'react'
 
-function App() {
-
-
+const App = () => {
   return (
-    <>
-      <h1 className='text-3xl font-bold text-orange-500'> Hello Bank</h1>
-    </>
+    <div>App</div>
   )
 }
 
