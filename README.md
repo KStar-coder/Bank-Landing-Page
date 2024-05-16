@@ -1,5 +1,5 @@
-# React + Vite
-
+# Hoobank
+### A modern landing page for a bank with modern UI and UX designs
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
